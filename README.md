@@ -50,7 +50,7 @@
 4. https://school.programmers.co.kr/learn/courses/30/lessons/120826
 ---
 # 2장 기본 자료구조
-
+1. https://school.programmers.co.kr/learn/courses/30/lessons/120844
 ---
 # 3장 검색 알고리즘
 
