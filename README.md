@@ -39,4 +39,24 @@
 - 한주에 진행했던 챕터와 관련된 알고리즘 문제 추가 (프로그래머스)
 - git은 서은씨가 만들어서 초대 예정
 
-[알고리즘 문제](https://www.notion.so/54e867571fa64758940d4c1d21c9e0c1?pvs=21)
+---
+# 1장 기본 알고리즘
+
+문제목록
+
+1. https://school.programmers.co.kr/learn/courses/30/lessons/120906
+2. https://www.acmicpc.net/problem/1330
+3. https://school.programmers.co.kr/learn/courses/30/lessons/120585
+4. https://school.programmers.co.kr/learn/courses/30/lessons/120826
+---
+# 2장 기본 자료구조
+
+---
+# 3장 검색 알고리즘
+
+---
+# 4장 스택과 큐
+
+---
+# 5장 재귀 알고리즘
+
